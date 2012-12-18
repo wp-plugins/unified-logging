@@ -8,13 +8,17 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The Unified Logging WordPress plugin enables logging information to be sent to Unified Logging.
+The Unified Logging WordPress plugin enables php logging information to be sent to Unified Logging.
 
 == Description ==
 
-Unified Logging is a logging service which can collect logging data from your wordpress site.  To signup up visit https://portal.unifiedlogging.com/signup/  
+This plugin taps into php logging and sends the logging information to Unified Logging so you can be notified if something goes wrong and then can review the messages.
 
-This plugin enables information to be sent to Unified Logging using your credentials retrieved from the profile page on the Unified Logging website (https://portal.unifiedlogging.com/profile/).  
+To signup for a free account go to https://portal.unifiedlogging.com/signup/
+
+After signing up visit your profile page (https://portal.unifiedlogging.com/profile/) and retrieve your submission url, access key and secret key then input these into the "setting" page after the plugin is activated.
+
+More info can be found at: http://blog.unifiedlogging.com/getting-started-with-unified-logging-wordpress-plugin/
 
 Your data is sent over ssl and the secret key is used to create a hash to make sure the data is not tampered with.
 
