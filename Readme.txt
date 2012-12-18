@@ -12,7 +12,7 @@ The Unified Logging WordPress plugin enables php logging information to be sent 
 
 == Description ==
 
-This plugin taps into php logging and sends the logging information to Unified Logging so you can be notified if something goes wrong and then can review the messages.
+This plugin taps into php logging and sends the logging information to Unified Logging (http://www.unifiedlogging.com) so you can be notified if something goes wrong and then can review the messages.
 
 To signup for a free account go to https://portal.unifiedlogging.com/signup/
 
