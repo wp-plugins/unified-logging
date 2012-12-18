@@ -16,7 +16,7 @@ This plugin taps into php logging and sends the logging information to Unified L
 
 To signup for a free account go to https://portal.unifiedlogging.com/signup/
 
-After signing up visit your profile page (https://portal.unifiedlogging.com/profile/) and retrieve your submission url, access key and secret key then input these into the "setting" page after the plugin is activated.
+After signing up visit your profile page (https://portal.unifiedlogging.com/profile/) and retrieve your submission url, access key and secret key then input these into the "Settings" page after the plugin is activated.
 
 More info can be found at: http://blog.unifiedlogging.com/getting-started-with-unified-logging-wordpress-plugin/
 
