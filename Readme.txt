@@ -8,11 +8,11 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The Unified Logging WordPress plugin enables php logging information to be sent to Unified Logging.
+The Unified Logging WordPress plugin enables php logging information to be sent to Unified Logging
 
 == Description ==
 
-This plugin taps into php logging and sends the logging information to Unified Logging (http://www.unifiedlogging.com) so you can be notified if something goes wrong and then can review the messages.
+Unified Logging is Logging as a Service (LaaS).  This plugin taps into php logging and sends the logging information to Unified Logging (http://www.unifiedlogging.com) so you can be notified if something goes wrong and then can review the messages.
 
 To signup for a free account go to https://portal.unifiedlogging.com/signup/
 
